@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .center {
+    @apply flex items-center;
+  }
+}
+
+.secondary_font{
+  font-family: 'Manrope', sans-serif;
+}

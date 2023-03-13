@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@500;600;700&display=swap');
+*{
+  font-family: 'Inter', sans-serif;
+}
+body {
+  background: linear-gradient(180deg, #FEF5F9 0%, #E6F9FF 100%);
+}
+
